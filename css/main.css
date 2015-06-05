@@ -95,20 +95,35 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+h1, h2, h3, h4, h5, .title {
+    font-family: 'EB Garamond', serif;
+    font-weight: normal;
+}
 
+h1 {
+    font-size: 1.75em;
+}
 
+.title {
+    font-size: 2.5em;
+}
 
+#header {
+    text-align: center;
+}
 
 
 #container {
-    width: 128px;
+    position: relative;
+    width: 40%;
     margin: 64px auto;
 }
 
 
 
 
-
+.bannerImg {
+}
 
 
 
