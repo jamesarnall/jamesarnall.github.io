@@ -1,0 +1,15 @@
+{
+  "name": "jamesarnall.github.io",
+  "version": "1.0.0",
+  "description": "Personal site on Github",
+  "main": "index.js",
+  "repository": "https://github.com/jamesarnall/jamesarnall.github.io",
+  "author": "James Arnall <james@jamesarnall.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
