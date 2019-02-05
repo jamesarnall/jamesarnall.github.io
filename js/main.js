@@ -8,7 +8,6 @@
     }
 
     function closeModal(evt) {
-        console.log('close');
         toggleGpg();
         return false;
     }
