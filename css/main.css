@@ -11,12 +11,14 @@
    ========================================================================== */
 
 html {
-    color: #222;
-    font-size: 100%;
-    line-height: 1.4;
+    color       : #222;
+    font-size   : 100%;
+    line-height : 1.4;
+    position: relative;
+    height: 100%;
 }
 
-html, body {    
+html, body {
     font-family: 'EB Garamond', serif;
 }
 
@@ -110,6 +112,7 @@ h1 {
 
 .title {
     font-size: 2.5em;
+    margin-bottom: 0;
 }
 
 #header {
@@ -118,9 +121,9 @@ h1 {
 
 
 #container {
-    position: relative;
-    width: 40%;
-    margin: 64px auto;
+    position : relative;
+    width    : 40%;
+    margin   : 64px auto;
 }
 
 
@@ -136,12 +139,12 @@ h1 {
 }
 
 .summary {
-    background-color: #eee;
-    border-radius: 8px;
-    display: inline-block;
-    font-size: 1.25rem;
-    /*margin: auto;*/
-    padding  : 1rem;
+    /*background-color: #eee;*/
+    /*border-radius: 8px;*/
+    /*display: inline-block;*/
+    font-size: 1.2rem;
+    margin: 0;
+    /*padding  : .8rem 0;*/
     width: auto;
 }
 
@@ -182,12 +185,12 @@ h1 {
 
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
-    clip: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto;
+    clip     : auto;
+    height   : auto;
+    margin   : 0;
+    overflow : visible;
+    position : static;
+    width    : auto;
 }
 
 /*
@@ -212,12 +215,12 @@ h1 {
 
 .clearfix:before,
 .clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
+    content : " "; /* 1 */
+    display : table; /* 2 */
 }
 
 .clearfix:after {
-    clear: both;
+    clear : both;
 }
 
 /* ==========================================================================
@@ -226,92 +229,83 @@ h1 {
    Modify as content requires.
    ========================================================================== */
 
-ul.contacts-list {
-    list-style: none;
-    padding-left: 0;
+.content {
+    text-align : center;
 }
 
-ul.contacts-list li {
-    display: inline-block;
-    font-size: 1.5rem;
-    margin-right: .75rem;
-}
-ul.contacts-list li a {
-    color: #000;
+.email-info {
+    margin-top : 2rem;
 }
 
-.key-modal {
-    -webkit-transition : opacity .75s, visibility 0s; /* Safari */
-    background-color   : rgba(0,0,0,0.5);
-    height             : 100%;
-    left               : 0;
-    opacity            : 0;
-    position           : fixed; /* Stay in place */
-    top                : 0;
-    transition         : opacity .75s, visibility 0s;
-    visibility         : hidden;
-    width              : 100%;
-    z-index            : 100;
+
+ul.social-list {
+    list-style   : none;
+    padding-left : 0;
 }
 
-.key-modal__body {
-    background-color : #fff;
-    border-radius    : .5rem;
-    left             : 50%;
-    padding          : 2rem;
-    position         : absolute;
-    top              : 50%;
-    transform        : translate(-50%, -50%);
-    width            : 40rem;
+ul.social-list li {
+    display      : inline-block;
+    font-size    : 1.5rem;
+    margin-right : .75rem;
 }
 
-.key-modal__close {
-    float: right;
-    cursor: pointer;
+ul.social-list li:last-child {
+    margin-right : 0;
 }
 
-.key-modal--active {
-    -webkit-transition : visibility 0s, opacity .75s; /* Safari */
-    opacity            : 1;
-    transition         : opacity .75s, visibility 0s;
-    visibility         : visible;
+ul.social-list li a,
+.social-icon {
+    color : #666;
 }
 
-.code-field {
-    -moz-user-select    : all;
-    -ms-user-select     : all;
-    -webkit-user-select : all;
-    background-color    : #eee;
-    border              : 0;
-    display             : inline-block;
-    font-family         : monospace;
-    font-size           : .8rem;
-    overflow            : hidden;
-    padding             : 1rem;
-    resize              : none;
-    user-select         : all;
+a:hover,
+ul.social-list li a:hover {
+    color : #a00;
 }
 
 .key-link {
-    margin-left: 1rem;
-    color: #bbb;
-    text-decoration: none;
+    color           : #bbb;
+    text-decoration : none;
+    font-family     : "Helvetica", "Arial", Sans-Serif;
+    font-size       : .8rem;
+    text-transform  : uppercase;
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+
+.footer {
+    display          : inline-block;
+    width: 100%;
+    padding          : .5rem 0;
+    text-align       : center;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+    
+    h1.title {
+        font-size : 2.5rem;
+    }
+
     #container {
-        width: 85%;
+        margin : 32px auto;
+        width  : 85%;
     }
 
     .bannerImg {
-        width: 72px;
-        height: 72px;
+        width  : 56px;
+        height : 56px;
     }
 
     .summary {
-        font-size: 1.25rem;
+        font-size: 1rem;
     }
 
+    .footer {
+        bottom           : 0;
+        left             : 0;
+        position         : absolute;
+        right            : 0;
+    }
 }
 
 @media print,
