@@ -42,3 +42,14 @@ From time to time assignments will change. Please check in with Google Classroom
 
 
 ## Gretchen
+
+### Art
+
+[jenniferschmidt@gemschicago.org](mailto:jenniferschmidt@gemschicago.org)
+
+* Be creative for at least 20 minutes per day. Use any materials available at home: pencil, pen, markers, paint, collage, digital, etc.
+* Upload photos of all 5 challenges for the week on Friday by noon, in ONE post, to your classroom SeeSaw account (sorted into the Art folder).
+
+> Try making some public art
+
+
