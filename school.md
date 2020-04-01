@@ -53,3 +53,58 @@ From time to time assignments will change. Please check in with Google Classroom
 > Try making some public art
 
 
+
+
+## Week of 30 March - 03 April
+
+### Laszlo
+
+019-20 Math Class — due Apr 1
+Google Hangout and Lesson 5.7 Tuesday March 31, 2020
+Google Hangout Meet
+--Tuesday at 10:00--212 with Last Names A-M: meet.google.com/ijx-vqsa-mjg
+--Tuesday at 10:00--214 with Last Names A-M: meet.google.com/krk-ipam-ddm
+Please complete the following:
+1) Watch the video: https://youtu.be/uFM2j-5_SMI (15 minutes) Re-watch if watched already.
+2) Complete the following exercise:
+- https://www.khanacademy.org/math/cc-third-grade-math/3rd-perimeter/imp-comparing-area-and-perimeter/e/area-and-perimeter-scenarios (10 minutes)
+3) Complete Lesson 5.7 - 2 pages (20 minutes)
+
+215 ELA/SS — due Apr 3
+Weekly Writing Assignment: March 30th-April 3rd
+This is your time to shine- invent a story of your own, or write about how you’re feeling, two pages.
+Goals to work on: paragraphs, sentence structure, and subject-verb agreement.
+*** Write your answer in the google doc template. Make sure to turn in the assignment on google classroom by Friday, April 3rd.
+
+215 ELA/SS — due Apr 3
+Daily Grammar
+Please complete 1 daily grammar assignment. Open the assignment pdf, and type your responses on the google template. Make sure to "turn in" your google doc on Friday!
+
+215 ELA/SS — due Apr 3
+Chains Vocabulary Assignment-Updated!
+
+Assignment — due Apr 1
+Google Hangout and Lesson 5.7 Tuesday March 31, 2020
+Google Hangout Meet
+--Tuesday at 10:00--212 with Last Names A-M: meet.google.com/ijx-vqsa-mjg
+--Tuesday at 10:00--214 with Last Names A-M: meet.google.com/krk-ipam-ddm
+Please complete the following:
+1) Watch the video: https://youtu.be/uFM2j-5_SMI (15 minutes) Re-watch if watched already.
+2) Complete the following exercise:
+- https://www.khanacademy.org/math/cc-third-grade-math/3rd-perimeter/imp-comparing-area-and-perimeter/e/area-and-perimeter-scenarios (10 minutes)
+3) Complete Lesson 5.7 - 2 pages (20 minutes)
+
+Assignment
+Idioms
+Using the list of idioms, select ten idioms that you don’t know already and copy a google image picture to represent the phrase. Then, write an original sentence for each of your ten idioms.
+Posted Mar 30
+Assignment — due Apr 3
+Weekly Writing Assignment: March 30th-April 3rd
+This is your time to shine- invent a story of your own, or write about how you’re feeling, two pages.
+Goals to work on: paragraphs, sentence structure, and subject-verb agreement.
+*** Write your answer in the google doc template. Make sure to turn in the assignment on google classroom by Friday, April 3rd.
+Posted Mar 27
+Assignment — due Apr 3
+Chains Vocabulary Assignment-Updated!
+Posted Mar 30
+
